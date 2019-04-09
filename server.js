@@ -26,7 +26,7 @@ mongoose
 app.use(passport.initialize());
 
 // Passport Config
-require("./config/passport")(passport);
+require(".wi/config/passport")(passport);
 
 // app.get("/", (req, res) => res.send("Hello Moombas!"));
 

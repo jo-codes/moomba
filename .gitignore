@@ -1,5 +1,6 @@
 package-lock.json
 keys.js
+default.json
 
 # Created by https://www.gitignore.io/api/node,linux,database,visualstudiocode
 # Edit at https://www.gitignore.io/?templates=node,linux,database,visualstudiocode

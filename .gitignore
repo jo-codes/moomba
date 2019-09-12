@@ -1,9 +1,12 @@
+node_modules/
+config/default.json
 package-lock.json
 keys.js
 default.json
 .env.development.local
 gitpod.yml
 .theia
+production.json
 
 # Created by https://www.gitignore.io/api/node,linux,database,visualstudiocode
 # Edit at https://www.gitignore.io/?templates=node,linux,database,visualstudiocode
